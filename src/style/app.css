@@ -1,0 +1,11 @@
+.colorcell {
+    border-radius: 3px;
+}
+
+.caution {
+    background-color: rgb(249, 203, 7);
+}
+
+.emojicell svg {
+    height: 15px;
+}
